@@ -1,0 +1,13 @@
+name: "sage-app-tutorial"
+version: "0.1.0"
+description: "tutorial"
+keywords: ""
+authors: "johnnybwell"
+collaborators: ""
+funding: ""
+license: ""
+homepage: ""
+source:
+  architectures:
+    - "linux/amd64"
+    - "linux/arm64"
